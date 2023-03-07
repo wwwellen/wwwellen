@@ -1,5 +1,5 @@
 <div align="center">
-    <h3> oi! eu sou a ellen, bem-vindo ao meu github. :sparkles: </h3>
+    <h3> :sparkles: oi! eu sou a ellen, bem-vindo ao meu github. :sparkles: </h3>
 </div>
 
 <br>
