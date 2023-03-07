@@ -1,2 +1,2 @@
 ### oi! eu sou a ellen, bem-vindo ao meu github.
-!(https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif)
+!(https://i.pinimg.com/originals/cc/44/f4/cc44f41fee8c129ab6e864e4fa0d66ba.jpg)
