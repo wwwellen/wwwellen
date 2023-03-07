@@ -1,2 +1,2 @@
-### oi! eu sou a ellen, bem-vindo ao meu github.
-![be031f8d02ca8cc404d44be54ee2c493](https://user-images.githubusercontent.com/99822361/223552578-a762f280-4648-407b-83c5-8f7717cbbaf4.gif?w=150)
+### oi! eu sou a ellen, bem-vindo ao meu github. :sparkles:
+<img src="https://i.pinimg.com/originals/35/38/92/3538920dfb5b550234d91b67e6c8c459.jpg" width="40%">
