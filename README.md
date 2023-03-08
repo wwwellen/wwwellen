@@ -6,7 +6,7 @@
 
 <div>
     <ul>
-        <li> :computer: | sou desenvolvedora full stack júnior. </li>
+        <li> :computer: | sou desenvolvedora full stack júnior (em progresso). </li>
         <li> :book: | estudo de forma independente. no momento estudando <strong> js </strong> e <strong> lógica</strong>. </li>
         <li> :bookmark_tabs: | prestando vestibular para ingressar no ensino superior. </li>
         <li> :bookmark: | instituto PROA 2022.1
