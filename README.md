@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ACF7AD8B&center=true&vCenter=true&width=435&height=100&lines=%E2%9C%A8+oi!+eu+sou+a+ellen.+%3A)+%E2%9C%A8" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=93F791C5&width=435&lines=oi%2C+eu+sou+a+ellen+%3A);bem+vindo(a)+ao+meu+github.%E2%9C%A8)](https://git.io/typing-svg)
 ```java
 public class Ellen {
     public static void main(String[] args) {
