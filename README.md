@@ -12,7 +12,6 @@ public class Ellen {
 ```
 
 ## ➝ estudos 📚
-* superior em análise e desenvolvimento de sistemas
 * oracle one t5
 * instituto proa
 * samsung innovation one
